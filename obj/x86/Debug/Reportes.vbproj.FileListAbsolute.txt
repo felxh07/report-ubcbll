@@ -1,0 +1,13 @@
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\bin\Debug\Reportes.exe.config
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\bin\Debug\Reportes.exe
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\bin\Debug\Reportes.pdb
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\bin\Debug\Reportes.xml
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.Resources.resources
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.LoginForm.resources
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.MainForm.resources
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.vbproj.GenerateResource.Cache
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.exe
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.xml
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.pdb
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.UcRptCirc001.resources
+D:\FELIX-DESARROLLO\SISTEMA REPORTES KOHA\Reportes\Reportes\obj\x86\Debug\Reportes.UcRptCol001.resources
